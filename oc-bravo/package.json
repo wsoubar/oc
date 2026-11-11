@@ -1,0 +1,1 @@
+{"name":"minhas-tarefas","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"tsc -b && vite build","lint":"tsc --noEmit"},"dependencies":{"@tailwindcss/vite":"*","tailwindcss":"*","vite":"*","typescript":"*","react":"*","react-dom":"*","lucide-react":"*","@types/react":"*","@types/react-dom":"*"},"devDependencies":{}}
